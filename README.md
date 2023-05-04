@@ -48,6 +48,76 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br/>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C655%20hrs%2016%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 260.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 160 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 44 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                115 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+🌆 Daytime                1576 commits        ██████████████░░░░░░░░░░░   57.10 % 
+🌃 Evening                1052 commits        ██████████░░░░░░░░░░░░░░░   38.12 % 
+🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Tuesday                  402 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Wednesday                795 commits         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+Thursday                 647 commits         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Friday                   608 commits         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Saturday                 31 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Sunday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               25 repos            ███████████████░░░░░░░░░░   60.98 % 
+JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/wdgisele/wdgisele/main/assets/bar_graph.png)
+
+
+ Last Updated on 04/05/2023 00:42:15 UTC
+<!--END_SECTION:waka-->
   
 </details>
