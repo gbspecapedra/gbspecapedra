@@ -37,8 +37,8 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <summary>📈 <b>Github stats</b>:</summary>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gisabernardess&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisabernardess&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=wdgisele&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdgisele&layout=compact&theme=tokyonight">
   </p>
 
 </details>
