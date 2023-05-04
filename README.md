@@ -1,9 +1,9 @@
 <h3>Hi 👋 I am Gisele!</h3>
 
 <a href="https://www.codementor.io/@gisele?refer=badge" target="_blank" rel="nofollow"><img align="right" width="70rem" src="https://www.codementor.io/m-badges/gisele/find-me-on-cm-g.svg?raw=true" alt="Codementor: @gisele"/></a>
-<a href="https://app.rocketseat.com.br/me/gisabernardess/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/rocketseat.png?raw=true" alt="Rocketseat: @gisabernardess"/></a>
-<a href="https://twitter.com/gisabernardess/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/twitter.png?raw=true" alt="Twitter: @gisabernardess"/></a>
-<a href="https://www.linkedin.com/in/gisabernardess/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/linkedin.png?raw=true" alt="LinkedIn: @gisabernardess"/></a>
+<a href="https://app.rocketseat.com.br/me/gisabernardess/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/wdgisele/wdgisele/blob/main/assets/rocketseat.png?raw=true" alt="Rocketseat: @gisabernardess"/></a>
+<a href="https://twitter.com/gbspecapedra/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/wdgisele/wdgisele/blob/main/assets/twitter.png?raw=true" alt="Twitter: @gbspecapedra"/></a>
+<a href="https://www.linkedin.com/in/gbspecapedra/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/wdgisele/wdgisele/blob/main/assets/linkedin.png" alt="LinkedIn: @gbspecapedra"/></a>
 
 ---
 
