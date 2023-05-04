@@ -18,7 +18,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
 
 <details open>
   <summary>🚀 <b>Skills</b>:</summary>
-  <br>
+  <br/>
   <p align="center">
     <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -35,10 +35,19 @@ I am a developer passionate about frontend and I am always looking to learn and 
 
 <details open>
   <summary>📈 <b>Github stats</b>:</summary>
-  <br>
+  <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wdgisele&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=radical"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdgisele&layout=compact&theme=tokyonight">
   </p>
 
+</details>
+
+<details>
+  <summary>🤖 <b>Programming stats</b> <em>(click to expand)</em>:</summary>
+  <br/>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  
 </details>
