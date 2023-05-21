@@ -48,9 +48,9 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br/>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C674%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C679%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -91,17 +91,17 @@ Sunday                   7 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 6 mins       ████████████████████████░   96.17 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               11 hrs 53 mins      ████████████████████████░   95.17 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +121,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wdgisele/wdgisele/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2023 02:31:42 UTC
+ Last Updated on 21/05/2023 02:38:18 UTC
 <!--END_SECTION:waka-->
   
 </details>
