@@ -48,7 +48,7 @@ I am a developer passionate about frontend and I am always looking to learn and 
   <br/>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C709%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C712%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -121,7 +121,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wdgisele/wdgisele/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2023 03:07:48 UTC
+ Last Updated on 05/06/2023 02:52:12 UTC
 <!--END_SECTION:waka-->
   
 </details>
