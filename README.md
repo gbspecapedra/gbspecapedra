@@ -3,16 +3,17 @@
 <a href="https://www.codementor.io/@gisele?refer=badge" target="_blank" rel="nofollow"><img align="right" width="70rem" src="https://www.codementor.io/m-badges/gisele/find-me-on-cm-g.svg?raw=true" alt="Codementor: @gisele"/></a>
 <a href="https://app.rocketseat.com.br/me/gisabernardess/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/wdgisele/wdgisele/blob/main/assets/rocketseat.png?raw=true" alt="Rocketseat: @gisabernardess"/></a>
 <a href="https://twitter.com/gbspecapedra/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/wdgisele/wdgisele/blob/main/assets/twitter.png?raw=true" alt="Twitter: @gbspecapedra"/></a>
-<a href="https://www.linkedin.com/in/gbspecapedra/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/wdgisele/wdgisele/blob/main/assets/linkedin.png" alt="LinkedIn: @gbspecapedra"/></a>
+<a href="https://www.linkedin.com/in/gbspecapedra/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/wdgisele/wdgisele/blob/main/assets/linkedin.png" alt="LinkedIn: /in/gbspecapedra"/></a>
 
 ---
 
-I am a developer passionate about frontend and I am always looking to learn and improve my skills through reading, self-knowledge and technical courses. I love how every day is a challenge and working with great people that help me grow as a developer.
+In a mix of openness and conscientiousness, I am a wife, a mother, and an experienced front-end software engineer. An avid programmer, open-minded and fast learner. Passionate about a healthy lifestyle and, as a front-end engineer, focused on making the web a better place.
 
 - 👩‍💻 currently working as frontend developer at <a href="https://www.winedirect.com/" rel="dofollow">WineDirect</a>
-- 💜 geek, gamer, anime & k-drama lover
-- 👩‍🎓 bachelor in Information Systems and postgraduated in Full Stack Web Development
-- 🎯 goal: be a full stack designer
+- 💜 traveller, eater but not spicy, and reader
+- 👩‍🎓 bachelor in Information Systems and postgraduate in Full Stack Web Development
+- 📚 UX/UI learner
+- 🎯 goal: be able to apply my knowledge as a front-end engineer, working as a team and growing with the support of talented coworkers.
 
 ---
 
