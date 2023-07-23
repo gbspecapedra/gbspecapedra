@@ -48,7 +48,7 @@ In a mix of openness and conscientiousness, I am a wife, a mother, and an experi
   <br/>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C808%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C815%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -91,16 +91,15 @@ Sunday                   6 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               29 hrs 25 mins      █████████████████████████   98.12 % 
-Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+TypeScript               25 hrs 42 mins      █████████████████████████   98.93 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -120,7 +119,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wdgisele/wdgisele/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2023 02:33:12 UTC
+ Last Updated on 23/07/2023 02:38:41 UTC
 <!--END_SECTION:waka-->
   
 </details>
