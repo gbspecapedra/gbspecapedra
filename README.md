@@ -1,18 +1,15 @@
 <h3>Hi 👋 I am Gisele!</h3>
 
 <a href="https://app.rocketseat.com.br/me/gisabernardess/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/wdgisele/wdgisele/blob/main/assets/rocketseat.png?raw=true" alt="Rocketseat: @gisabernardess"/></a>
-<a href="https://twitter.com/gbspecapedra/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/wdgisele/wdgisele/blob/main/assets/twitter.png?raw=true" alt="Twitter: @gbspecapedra"/></a>
 <a href="https://www.linkedin.com/in/gbspecapedra/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/wdgisele/wdgisele/blob/main/assets/linkedin.png" alt="LinkedIn: /in/gbspecapedra"/></a>
 
 ---
 
-In a mix of openness and conscientiousness, I am a wife, a mother, and an experienced front-end software engineer. An avid programmer, open-minded and fast learner. Passionate about a healthy lifestyle and, as a front-end engineer, focused on making the web a better place.
+Unleashing creativity through lines of code, I'm a front-end software engineer with a hunger for growth and a love for elegant solutions. With an insatiable curiosity and an open mind, I thrive on learning new technologies and pushing boundaries. When I'm not immersed in the world of programming, you'll find me passionately advocating for a healthy lifestyle.
 
-- 👩‍💻 currently working as frontend developer at <a href="https://www.winedirect.com/" rel="dofollow">WineDirect</a>
+- 👩‍💻 currently working at <a href="https://www.winedirect.com/" rel="dofollow">WineDirect</a>
 - 💜 traveller, eater but not spicy, and reader
-- 👩‍🎓 bachelor in Information Systems and postgraduate in Full Stack Web Development
-- 📚 UX/UI learner
-- 🎯 goal: be able to apply my knowledge as a front-end engineer, working as a team and growing with the support of talented coworkers.
+- 📚 UX/UI Design learner
 
 ---
 
