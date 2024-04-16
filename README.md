@@ -45,9 +45,11 @@ Unleashing creativity through lines of code, I'm a front-end software engineer w
   <br/>
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C883%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -59,6 +61,40 @@ Unleashing creativity through lines of code, I'm a front-end software engineer w
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                466 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+🌆 Daytime                4058 commits        █████████████░░░░░░░░░░░░   50.66 % 
+🌃 Evening                3265 commits        ██████████░░░░░░░░░░░░░░░   40.76 % 
+🌙 Night                  222 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1023 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Tuesday                  1176 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Wednesday                2338 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+Thursday                 1772 commits        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Friday                   1592 commits        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Saturday                 104 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Sunday                   6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -76,7 +112,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wdgisele/wdgisele/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2024 04:08:48 UTC
+ Last Updated on 16/04/2024 02:24:24 UTC
 <!--END_SECTION:waka-->
   
 </details>
