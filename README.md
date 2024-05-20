@@ -55,6 +55,8 @@ Unleashing creativity through lines of code, I'm a front-end software engineer w
 
 > 📦 262.5 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -112,7 +114,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wdgisele/wdgisele/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2024 02:32:15 UTC
+ Last Updated on 20/05/2024 02:32:59 UTC
 <!--END_SECTION:waka-->
   
 </details>
