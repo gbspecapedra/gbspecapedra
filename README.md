@@ -55,6 +55,8 @@ Unleashing creativity through lines of code, I'm a front-end software engineer w
 
 > 📦 262.9 kB Used in GitHub's Storage 
  > 
+> 🏆 3 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -113,7 +115,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gpecapedra/gpecapedra/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2024 02:37:40 UTC
+ Last Updated on 20/07/2024 02:34:31 UTC
 <!--END_SECTION:waka-->
   
 </details>
