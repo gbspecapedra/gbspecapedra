@@ -45,7 +45,7 @@ Unleashing creativity through lines of code, I'm a front-end software engineer w
   <br/>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C895%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C898%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -88,16 +88,16 @@ Sunday                   7 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 10 mins       ████████████████████████░   96.78 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               7 hrs 58 mins       █████████████████████████   98.56 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,7 +117,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gbspecapedra/gbspecapedra/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2024 02:38:53 UTC
+ Last Updated on 21/08/2024 02:38:51 UTC
 <!--END_SECTION:waka-->
   
 </details>
