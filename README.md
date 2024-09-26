@@ -88,14 +88,13 @@ Sunday                   8 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               59 mins             ████████████████████████░   97.17 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +114,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gbspecapedra/gbspecapedra/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2024 02:52:10 UTC
+ Last Updated on 26/09/2024 02:49:36 UTC
 <!--END_SECTION:waka-->
   
 </details>
