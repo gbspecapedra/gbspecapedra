@@ -45,8 +45,6 @@ Unleashing creativity through lines of code, I'm a front-end software engineer w
   <br/>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C909%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99.7%20thousand%20lines%20of%20code-blue)
@@ -55,31 +53,29 @@ Unleashing creativity through lines of code, I'm a front-end software engineer w
 
 > 📦 276.0 kB Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-🌆 Daytime                56 commits          ████████░░░░░░░░░░░░░░░░░   32.75 % 
-🌃 Evening                84 commits          ████████████░░░░░░░░░░░░░   49.12 % 
-🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+🌞 Morning                31 commits          █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+🌆 Daytime                109 commits         ████████████████░░░░░░░░░   63.74 % 
+🌃 Evening                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Monday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 Tuesday                  37 commits          █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
 Wednesday                38 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Friday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Saturday                 32 commits          █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Thursday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Friday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Saturday                 33 commits          █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
 Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 ```
 
@@ -114,7 +110,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gbspecapedra/gbspecapedra/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2024 02:50:12 UTC
+ Last Updated on 02/10/2024 18:41:20 UTC
 <!--END_SECTION:waka-->
   
 </details>
