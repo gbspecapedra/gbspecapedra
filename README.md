@@ -44,9 +44,9 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a strong
 
 ### 📫 How to Reach Me
 
-- **Website**: [gisele.dev](https://gisele.dev)
-- **Email**: [hello@gisele.dev](mailto:hello@gisele.dev)
-- **LinkedIn**: [linkedin.com/in/gbspecapedra](https://www.linkedin.com/in/gbspecapedra)
+- [**Portfolio**](https://low-rocket-9d1.notion.site/Gisele-Pecapedra-Crafting-Thoughtful-Interfaces-with-Code-Design-1bb45b90e5f180738d65d0e0c3e16687)
+- [**Email**](mailto:gbspecapedra@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/giselepecapedra)
 
 ---
 
